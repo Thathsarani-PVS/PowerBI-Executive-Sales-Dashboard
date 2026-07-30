@@ -6,11 +6,10 @@ This interactive Power BI dashboard provides a comprehensive analysis of executi
 ---
 
 ## 🖼️ Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](Executive_Dash.png)
 
-*(Note: Replace `dashboard_preview.png` with the exact filename of your uploaded screenshot)*
 
----
+----------------------------------------------------------------------------------------------------
 
 ## 🔑 Key Features & Visual Insights
 - **KPI Summary Cards:** Real-time visibility into Total Sales Revenue, Overall Profit, and Total Units Sold.
@@ -19,7 +18,7 @@ This interactive Power BI dashboard provides a comprehensive analysis of executi
 - **Product Profitability:** Column chart analyzing individual product margins.
 - **Dynamic Segment Slicer:** Interactive filter allowing user-driven analysis by customer sector (Government, Enterprise, Small Business, etc.).
 
----
+---------------------------------------------------------------------------------------------------
 
 ## 🛠️ Data & Tools Used
 - **Tool:** Power BI Desktop
